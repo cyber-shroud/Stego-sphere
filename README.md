@@ -48,10 +48,23 @@ Stegosphere uses the `stegano` library with the **LSB (Least Significant Bit)** 
 
 ---
 
+## 📋 Requirements
+
+```bash
+pip install pillow
+pip install stegano
+
+---
+## ▶️ Run The App
+
+```bash
+python stegosphere.py
+
+---
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/stego-sphere.git
+git clone https://github.com/cyber-shroud/stego-sphere.git
 cd stego-sphere
 pip install -r requirements.txt
 python stegosphere.py
